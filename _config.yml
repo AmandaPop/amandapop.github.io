@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Amanda Popadich"
 title_separator          : "-"
 name                     : &name "Amanda Popadich"
@@ -23,7 +23,7 @@ repository               : "AmandaPop/AmandaPop.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Amanda Popadich"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
