@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I am a Ph.D. student in [Computational Linguistics](https://linguistics.washington.edu/) at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) in the [CLMBR Lab](https://clmbr.shane.st/).
+I am a third year Ph.D. student in [Computational Linguistics](https://linguistics.washington.edu/) at the University of Washington, working with [Shane Steinert-Threlkeld](https://www.shane.st/) in the [CLMBR Lab](https://clmbr.shane.st/).
 
 My research uses computational models and empirical methods to investigate human language and cognition. I am particularly interested in using language models to study language acquisition and processing, and in developing methods to understand the linguistic representations that support model behaviour. More broadly, I am interested in linguistic generalization, inference and pragmatic reasoning, and how patterns in language structure emerge through learning and language use.
 
